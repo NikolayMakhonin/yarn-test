@@ -1,0 +1,9 @@
+{
+  "name": "test-yarn",
+  "devDependencies": {
+    "ps-tree": "1.2.0"
+  },
+  "resolutions": {
+    "event-stream": "3.3.4"
+  }
+}
